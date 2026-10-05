@@ -7,7 +7,8 @@ public class Test {
 	public static void main(String[] args) {
 		
 		Calculator c = new Calculator();
-		
+
+		// Calling calculator method
 		c.add();
 		c.sub();
 		c.div();
