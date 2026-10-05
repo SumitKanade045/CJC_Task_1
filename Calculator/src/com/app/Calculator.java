@@ -20,5 +20,5 @@ public class Calculator {
 	public void div(){
 
 		System.out.println(100 / 2);
-
+	}
 }
