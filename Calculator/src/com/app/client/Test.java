@@ -9,6 +9,7 @@ public class Test {
 		Calculator c = new Calculator();
 
 		// Calling calculator method
+		
 		c.add();
 		c.sub();
 		c.div();
