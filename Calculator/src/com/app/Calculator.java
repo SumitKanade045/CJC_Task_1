@@ -14,7 +14,11 @@ public class Calculator {
 	
 	public void mul() {
 		
-		
+		System.out.println(10 * 20 );
 	}
+
+	public void div(){
+
+		System.out.println(100 / 2);
 
 }
